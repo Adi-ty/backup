@@ -1,0 +1,17 @@
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Temporary files
+*.tmp
+*.lock
+/tmp
